@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\ldurazo.NEARSOFT\Documents\GitHub\miniature-octo-computing-machine\AndroidFireBase\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-2377a29dad5de9d626f9eebb70f36f117eff552c.jar"
+        jar="C:\Users\ldurazo.NEARSOFT\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b"/>
+    <item
+        dex="C:\Users\ldurazo.NEARSOFT\Documents\GitHub\miniature-octo-computing-machine\AndroidFireBase\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-997c9f80dd0ee5436dcae6e39826b96301450f6f.jar"
+        jar="C:\Users\ldurazo.NEARSOFT\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33"/>
+    <item
+        dex="C:\Users\ldurazo.NEARSOFT\Documents\GitHub\miniature-octo-computing-machine\AndroidFireBase\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-2511d5940c33a124ee91cbf42a6ed620922ada26.jar"
+        jar="C:\Users\ldurazo.NEARSOFT\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916"/>
+    <item
+        dex="C:\Users\ldurazo.NEARSOFT\Documents\GitHub\miniature-octo-computing-machine\AndroidFireBase\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-86d66f37293b763b0c82e3ca6f03d96a01fbba80.jar"
+        jar="C:\Users\ldurazo.NEARSOFT\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da"/>
+    <item
+        dex="C:\Users\ldurazo.NEARSOFT\Documents\GitHub\miniature-octo-computing-machine\AndroidFireBase\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-87e0d033e32ede16c071431afff23d6292b77b33.jar"
+        jar="C:\Users\ldurazo.NEARSOFT\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba"/>
+
+</pre-dex-items>
